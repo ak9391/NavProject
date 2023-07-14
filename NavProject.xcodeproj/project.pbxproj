@@ -11,6 +11,9 @@
 		7001124B2A61A13F00F4AEC8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7001124A2A61A13F00F4AEC8 /* ContentView.swift */; };
 		7001124D2A61A14600F4AEC8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7001124C2A61A14600F4AEC8 /* Assets.xcassets */; };
 		700112502A61A14600F4AEC8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7001124F2A61A14600F4AEC8 /* Preview Assets.xcassets */; };
+		700112572A61A32E00F4AEC8 /* secondV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 700112562A61A32E00F4AEC8 /* secondV.swift */; };
+		700112592A61A79F00F4AEC8 /* thirdV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 700112582A61A79F00F4AEC8 /* thirdV.swift */; };
+		7001125B2A61AD2E00F4AEC8 /* fourthV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7001125A2A61AD2E00F4AEC8 /* fourthV.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +22,9 @@
 		7001124A2A61A13F00F4AEC8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7001124C2A61A14600F4AEC8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7001124F2A61A14600F4AEC8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		700112562A61A32E00F4AEC8 /* secondV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondV.swift; sourceTree = "<group>"; };
+		700112582A61A79F00F4AEC8 /* thirdV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thirdV.swift; sourceTree = "<group>"; };
+		7001125A2A61AD2E00F4AEC8 /* fourthV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fourthV.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +59,9 @@
 			children = (
 				700112482A61A13F00F4AEC8 /* NavProjectApp.swift */,
 				7001124A2A61A13F00F4AEC8 /* ContentView.swift */,
+				700112562A61A32E00F4AEC8 /* secondV.swift */,
+				700112582A61A79F00F4AEC8 /* thirdV.swift */,
+				7001125A2A61AD2E00F4AEC8 /* fourthV.swift */,
 				7001124C2A61A14600F4AEC8 /* Assets.xcassets */,
 				7001124E2A61A14600F4AEC8 /* Preview Content */,
 			);
@@ -137,8 +146,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				700112592A61A79F00F4AEC8 /* thirdV.swift in Sources */,
 				7001124B2A61A13F00F4AEC8 /* ContentView.swift in Sources */,
+				700112572A61A32E00F4AEC8 /* secondV.swift in Sources */,
 				700112492A61A13F00F4AEC8 /* NavProjectApp.swift in Sources */,
+				7001125B2A61AD2E00F4AEC8 /* fourthV.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
